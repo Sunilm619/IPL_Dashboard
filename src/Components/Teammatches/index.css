@@ -1,0 +1,10 @@
+.bg{
+    
+    background-color: grey;
+    color: aliceblue;
+}
+.con{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+}
